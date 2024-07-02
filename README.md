@@ -19,4 +19,4 @@ This project is a web scraper that extracts Python-related job listings from the
 1. Clone the repository or download the script file.
 
 ```sh
-git clone <repository-url>
+git clone <[repository-url](https://github.com/xx36Mostafa/Job-Scraper)>
